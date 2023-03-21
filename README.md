@@ -11,3 +11,4 @@ Once I had a working nongraphic machine, I set up a heavy password policy for ne
 ![pw quality](https://user-images.githubusercontent.com/117108505/226710487-f69014e3-a64e-4af2-8312-4f4140eadf7a.png)
 
 Next, I learned about SSH and UFW (Secure Shell and Uncomplicated Firewall), how ports work and how to setup UFW rules enabling me to connect to my VM from the hosting machine for example.
+d
